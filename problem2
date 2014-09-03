@@ -1,0 +1,12 @@
+# Another problem. A, B, C and D are single digit numbers and are all different.
+
+   +----(6)----+
+   |     |     |
+   |  A  |  B  |
+   |     |     |
+  (7)--(11)---(4)
+   |     |     |
+   |  C  |  D  |
+   |     |     |
+   +----(5)----+
+

@@ -1,0 +1,23 @@
+# This is the original problem.
+# The horizontal lines have to modified slightly so that the cells don't "leak".
+#
+# Run:
+#
+#     runhaskell solve.hs problem1
+#
+# to find the solution.
+
+     (11)-------(16)-------(16)---------
+     / \        / \        / \        /
+    /   \      /   \      /   \      /
+   /  A  \ B  /  C  \ D  /  E  \  F /
+  /       \  /       \  /       \  /
+ /         \/         \/         \/
+(7)-------(25)-------(24)-------(13)
+ \         /\         /\         /
+  \       /  \       /  \       /
+   \  G  /    \  H  /    \  I  /
+    \   /      \   /      \   /
+     \ /        \ /        \ /
+      v          v          v
+
