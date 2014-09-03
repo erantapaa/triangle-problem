@@ -6,5 +6,5 @@ A solution to the 1HaskellADay triangle sums problem:
 
 Usage:
 
-  runhaskell solve.hs problem1
+    runhaskell solve.hs problem1
 
